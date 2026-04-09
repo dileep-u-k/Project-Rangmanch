@@ -30,18 +30,11 @@ class ContinuityService {
 
   Future<HookViewData> getActiveHook() async {
     final savedHook = await loadLastHookSeed();
-    final base = _seedService.getHook();
+    final episodeTitle = await loadLastEpisodeTitle();
 
-    if (savedHook == null || savedHook.isEmpty) {
-      return base;
-    }
-
-    return HookViewData(
-      headline: base.headline,
-      hookType: base.hookType,
-      hookLine: savedHook,
-      hookEnergy: base.hookEnergy,
-      returnReason: base.returnReason,
+    return _seedService.getHook(
+      savedHook: savedHook,
+      episodeTitle: episodeTitle,
     );
   }
 }

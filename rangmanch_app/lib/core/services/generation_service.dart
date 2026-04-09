@@ -27,7 +27,12 @@ class GenerationService {
   }) async {
     await Future<void>.delayed(const Duration(milliseconds: 450));
 
-    final seeded = _toneGuard.normalizeEpisode(_seedService.getEpisode());
+    final seeded = _toneGuard.normalizeEpisode(
+      _seedService.getEpisode(
+        mood: mood,
+        situation: situation,
+      ),
+    );
 
     if (_schemaGuard.isValidEpisode(seeded)) {
       return GeneratedPayload.seeded(seeded);
@@ -41,8 +46,11 @@ class GenerationService {
   }) async {
     await Future<void>.delayed(const Duration(milliseconds: 350));
 
-    final seeded =
-        _toneGuard.normalizeEpisodeOutcome(_seedService.getEpisodeOutcome());
+    final seeded = _toneGuard.normalizeEpisodeOutcome(
+      _seedService.getEpisodeOutcome(
+        selectedChoiceId: selectedChoiceId,
+      ),
+    );
 
     if (_schemaGuard.isValidEpisodeOutcome(seeded)) {
       return GeneratedPayload.seeded(seeded);
@@ -56,12 +64,21 @@ class GenerationService {
     required String vibe,
   }) async {
     await Future<void>.delayed(const Duration(milliseconds: 450));
-    return _seedService.getSquad();
+    return _seedService.getSquad(
+      members: members,
+      vibe: vibe,
+    );
   }
 
-  Future<ArtifactViewData> generateArtifact() async {
+  Future<ArtifactViewData> generateArtifact({
+    String? episodeTitle,
+    String? artifactLabel,
+  }) async {
     await Future<void>.delayed(const Duration(milliseconds: 250));
-    return _seedService.getArtifact();
+    return _seedService.getArtifact(
+      episodeTitle: episodeTitle,
+      artifactLabel: artifactLabel,
+    );
   }
 
   Future<HookViewData> generateHook() async {
