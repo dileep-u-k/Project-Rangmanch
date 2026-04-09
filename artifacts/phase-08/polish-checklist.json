@@ -1,0 +1,21 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "polish_categories": [
+    "naming consistency",
+    "copy consistency",
+    "screenshot consistency",
+    "deck consistency",
+    "demo consistency",
+    "packaging consistency",
+    "apk consistency",
+    "reviewer-friction reduction"
+  ],
+  "must_check": [
+    "same product terms across deck, demo, app, and appendix",
+    "only polished screenshots used",
+    "main demo path fixed",
+    "main files clearly identifiable",
+    "apk matches screenshots and story"
+  ]
+}

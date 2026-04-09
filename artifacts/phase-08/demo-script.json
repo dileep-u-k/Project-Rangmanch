@@ -1,0 +1,61 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "demo_sequences": [
+    {
+      "name": "Sequence A — Onboarding + first wow",
+      "goal": "Show the flagship loop and first wow",
+      "steps": [
+        "onboarding",
+        "home",
+        "todays_episode",
+        "episode_experience",
+        "episode_outcome",
+        "artifact",
+        "next_act"
+      ]
+    },
+    {
+      "name": "Sequence B — Social proof",
+      "goal": "Show Squad Mode as the social wedge",
+      "steps": [
+        "home",
+        "squad_mode",
+        "squad_result",
+        "artifact"
+      ]
+    },
+    {
+      "name": "Sequence C — Continuity proof",
+      "goal": "Show that prior use matters",
+      "steps": [
+        "next_act",
+        "archive",
+        "home_reflection"
+      ]
+    }
+  ],
+  "best_demo_examples": {
+    "episode": {
+      "mood": "Chaotic",
+      "situation": "my teammate disappeared before submission and now everything feels ridiculous"
+    },
+    "squad": {
+      "names": ["Aarav", "Diya", "Kabir"],
+      "vibe": "Squad Energy"
+    }
+  },
+  "strongest_pause_surfaces": [
+    "Episode Experience",
+    "Artifact",
+    "Squad Result"
+  ],
+  "key_presenter_rules": [
+    "move quickly to Episode",
+    "use known-good demo examples",
+    "treat Artifact as a key reveal",
+    "treat Next Act as retention proof, not peak wow",
+    "do not click everywhere"
+  ],
+  "target_duration_minutes": "3.5 to 5"
+}

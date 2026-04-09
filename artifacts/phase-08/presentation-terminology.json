@@ -1,0 +1,38 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "approved_terms": [
+    "RANGMANCH",
+    "Today’s Episode",
+    "Squad Mode",
+    "Artifact",
+    "Next Act",
+    "Archive",
+    "companion",
+    "Home",
+    "Universe",
+    "portable entertainment object",
+    "continuity-aware",
+    "companion-led",
+    "social wedge",
+    "anti-novelty layer"
+  ],
+  "avoid_term_swaps": [
+    {
+      "avoid": "Daily Story",
+      "use_instead": "Today’s Episode"
+    },
+    {
+      "avoid": "Group Mode",
+      "use_instead": "Squad Mode"
+    },
+    {
+      "avoid": "Share Card",
+      "use_instead": "Artifact"
+    },
+    {
+      "avoid": "Memory tab",
+      "use_instead": "Archive"
+    }
+  ]
+}

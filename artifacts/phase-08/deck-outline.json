@@ -1,0 +1,30 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "main_deck_slides": [
+    "Title and one-line thesis",
+    "Core user insight",
+    "Problem / market gap",
+    "Product definition",
+    "Why now",
+    "Target user / TAM",
+    "Workflow / user journey",
+    "MVP scope and prototype proof",
+    "Adoption logic",
+    "Growth loops",
+    "Monetization strategy",
+    "Why this can win / moat",
+    "Top risks",
+    "Mitigation strategy",
+    "Prototype screenshots / demo highlights",
+    "Closing vision"
+  ],
+  "optional_appendix": [
+    "references",
+    "architecture note",
+    "extra screens",
+    "testing insights",
+    "metrics framework",
+    "future roadmap"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "priority_matrix": [
+    {
+      "element": "One-line thesis",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Product differentiation",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "First wow flow",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Artifact portability",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Squad social wedge",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Continuity proof",
+      "importance": "Critical",
+      "proof_strength": "Medium-Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Growth loops",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Moat / right-to-win",
+      "importance": "Critical",
+      "proof_strength": "Medium-Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Risk maturity",
+      "importance": "Critical",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Core deck"
+    },
+    {
+      "element": "Testing / hardening proof",
+      "importance": "High",
+      "proof_strength": "Strong",
+      "recommended_emphasis": "Supporting deck"
+    },
+    {
+      "element": "Metrics framework",
+      "importance": "High",
+      "proof_strength": "Medium",
+      "recommended_emphasis": "Supporting deck"
+    },
+    {
+      "element": "Future roadmap depth",
+      "importance": "Medium",
+      "proof_strength": "Light",
+      "recommended_emphasis": "Appendix / backup"
+    }
+  ]
+}

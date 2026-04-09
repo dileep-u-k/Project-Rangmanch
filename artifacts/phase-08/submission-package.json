@@ -1,0 +1,25 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "external_submission_files": [
+    "RANGMANCH_Founders_Office_Pitch_Deck.pdf",
+    "RANGMANCH_Prototype_v1.apk"
+  ],
+  "internal_support_files": [
+    "Product Requirements Document",
+    "Research references appendix",
+    "Demo script",
+    "README",
+    "Architecture note",
+    "Risk and assumptions note",
+    "Backup screenshots"
+  ],
+  "submission_folders": {
+    "deck": "final pitch deck files",
+    "apk": "final APK and build note",
+    "screenshots": "polished prototype screenshots",
+    "appendix": "references and support notes",
+    "backups": "backup visuals and narration notes"
+  },
+  "naming_principle": "clean, professional, reviewer-friendly, consistent"
+}

@@ -1,0 +1,86 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "slide_map": [
+    {
+      "slide_number": 1,
+      "title": "Title and one-line thesis",
+      "purpose": "Introduce RANGMANCH crisply"
+    },
+    {
+      "slide_number": 2,
+      "title": "Core user insight",
+      "purpose": "Explain the behavior truth"
+    },
+    {
+      "slide_number": 3,
+      "title": "Problem / market gap",
+      "purpose": "Explain the gap in current products"
+    },
+    {
+      "slide_number": 4,
+      "title": "Product definition",
+      "purpose": "Define RANGMANCH clearly"
+    },
+    {
+      "slide_number": 5,
+      "title": "Why now",
+      "purpose": "Explain timing and relevance"
+    },
+    {
+      "slide_number": 6,
+      "title": "Target user / TAM",
+      "purpose": "Show wedge and broader market"
+    },
+    {
+      "slide_number": 7,
+      "title": "Workflow / user journey",
+      "purpose": "Show end-to-end experience"
+    },
+    {
+      "slide_number": 8,
+      "title": "MVP scope and prototype proof",
+      "purpose": "Show what is already proven"
+    },
+    {
+      "slide_number": 9,
+      "title": "Adoption logic",
+      "purpose": "Explain why users try it"
+    },
+    {
+      "slide_number": 10,
+      "title": "Growth loops",
+      "purpose": "Explain how the product spreads"
+    },
+    {
+      "slide_number": 11,
+      "title": "Monetization strategy",
+      "purpose": "Explain growth-first monetization"
+    },
+    {
+      "slide_number": 12,
+      "title": "Why this can win / moat",
+      "purpose": "Explain defensibility"
+    },
+    {
+      "slide_number": 13,
+      "title": "Top risks",
+      "purpose": "Show risk maturity"
+    },
+    {
+      "slide_number": 14,
+      "title": "Mitigation strategy",
+      "purpose": "Show how risks are reduced"
+    },
+    {
+      "slide_number": 15,
+      "title": "Prototype screenshots / demo highlights",
+      "purpose": "Show strongest product proof"
+    },
+    {
+      "slide_number": 16,
+      "title": "Closing vision",
+      "purpose": "Leave final conviction"
+    }
+  ]
+}

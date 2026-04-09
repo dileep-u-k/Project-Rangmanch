@@ -1,0 +1,25 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "reference_sections": [
+    "AI companion market",
+    "consumer entertainment behavior",
+    "social sharing behavior",
+    "habit and retention benchmarks",
+    "personalization and identity behavior",
+    "design inspiration and benchmark products"
+  ],
+  "format_guidance": {
+    "required_fields": [
+      "source title",
+      "source type",
+      "why it mattered",
+      "relevance note"
+    ],
+    "optional_fields": [
+      "category tag",
+      "date accessed",
+      "short takeaway"
+    ]
+  }
+}

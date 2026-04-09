@@ -1,0 +1,23 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 8",
+  "core_rehearsal_questions": [
+    "What is RANGMANCH in one line?",
+    "Why should this category exist?",
+    "Why is this not just a chatbot or Character AI?",
+    "Why do users adopt it?",
+    "Why do users return?",
+    "Why do users share it?",
+    "How does it monetize later?",
+    "What is the moat?",
+    "What could fail?",
+    "Why should Zupee care?"
+  ],
+  "rehearsal_rounds": [
+    "story-only rehearsal",
+    "demo-only rehearsal",
+    "full integrated rehearsal",
+    "founder-style challenge rehearsal",
+    "final timed rehearsal"
+  ]
+}
