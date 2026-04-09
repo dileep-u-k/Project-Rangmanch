@@ -1,0 +1,36 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "retention_engines": [
+    {
+      "name": "Daily episode curiosity",
+      "core_question": "What did my companion create for my mood or moment today?",
+      "mvp_status": "present",
+      "product_surfaces": ["home", "episode setup", "continuity teaser"]
+    },
+    {
+      "name": "Arc continuation",
+      "core_question": "What happens next in my season or current thread?",
+      "mvp_status": "present",
+      "product_surfaces": ["next act", "archive", "home continuity card"]
+    },
+    {
+      "name": "Squad evolution",
+      "core_question": "How did my group dynamic evolve?",
+      "mvp_status": "light",
+      "product_surfaces": ["squad mode", "archive", "next act"]
+    },
+    {
+      "name": "Occasion-triggered return",
+      "core_question": "What is active today because of context, time, or event?",
+      "mvp_status": "future",
+      "product_surfaces": ["future event card", "future home transformation", "future occasion prompts"]
+    },
+    {
+      "name": "Personalized familiarity",
+      "core_question": "This app knows my vibe and gets more interesting with me.",
+      "mvp_status": "light",
+      "product_surfaces": ["home profile seed", "continuity callbacks", "tone memory"]
+    }
+  ]
+}

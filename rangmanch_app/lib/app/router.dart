@@ -1,9 +1,16 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../features/archive/archive_screen.dart';
+import '../features/artifact/artifact_screen.dart';
+import '../features/continuity/next_act_screen.dart';
+import '../features/episode/episode_experience_screen.dart';
+import '../features/episode/episode_outcome_screen.dart';
+import '../features/episode/episode_setup_screen.dart';
 import '../features/home/home_screen.dart';
 import '../features/onboarding/onboarding_screen.dart';
+import '../features/squad/squad_result_screen.dart';
+import '../features/squad/squad_setup_screen.dart';
 import 'constants.dart';
 
 final appRouterProvider = Provider<GoRouter>((ref) {
@@ -20,63 +27,36 @@ final appRouterProvider = Provider<GoRouter>((ref) {
       ),
       GoRoute(
         path: AppRoutes.episodeSetup,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Episode Setup'),
+        builder: (context, state) => const EpisodeSetupScreen(),
       ),
       GoRoute(
         path: AppRoutes.episodeExperience,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Episode Experience'),
+        builder: (context, state) => const EpisodeExperienceScreen(),
       ),
       GoRoute(
         path: AppRoutes.episodeOutcome,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Episode Outcome'),
+        builder: (context, state) => const EpisodeOutcomeScreen(),
       ),
       GoRoute(
         path: AppRoutes.squadSetup,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Squad Setup'),
+        builder: (context, state) => const SquadSetupScreen(),
       ),
       GoRoute(
         path: AppRoutes.squadResult,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Squad Result'),
+        builder: (context, state) => const SquadResultScreen(),
       ),
       GoRoute(
         path: AppRoutes.artifact,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Artifact / Share'),
+        builder: (context, state) => const ArtifactScreen(),
       ),
       GoRoute(
         path: AppRoutes.nextAct,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Next Act'),
+        builder: (context, state) => const NextActScreen(),
       ),
       GoRoute(
         path: AppRoutes.archive,
-        builder: (context, state) =>
-            const _PlaceholderScreen(title: 'Archive'),
+        builder: (context, state) => const ArchiveScreen(),
       ),
     ],
   );
 });
-
-class _PlaceholderScreen extends StatelessWidget {
-  final String title;
-
-  const _PlaceholderScreen({required this.title});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text(title)),
-      body: Center(
-        child: Text(
-          title,
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
-      ),
-    );
-  }
-}

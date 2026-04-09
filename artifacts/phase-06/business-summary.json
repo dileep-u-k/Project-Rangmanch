@@ -1,0 +1,39 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "business_thesis": "RANGMANCH is a companion-led entertainment product that converts everyday moods, moments, and group chaos into personalized, interactive, shareable, and continuity-aware entertainment experiences for mobile-first users.",
+  "category": "Companion-led personal entertainment operating system",
+  "initial_wedge": [
+    "Today's Episode",
+    "Squad Mode",
+    "Artifact portability",
+    "Return hook / continuity"
+  ],
+  "wedge_market": [
+    "college students",
+    "hostel friend groups",
+    "mobile-first socially expressive young users",
+    "early-career friend circles",
+    "high-frequency short-session entertainment seekers"
+  ],
+  "broader_market": [
+    "users seeking low-friction entertainment",
+    "users who enjoy personalized fun",
+    "users who want playful AI experiences instead of heavy emotional AI"
+  ],
+  "occasion_expansion": [
+    "birthdays",
+    "festivals",
+    "sports nights",
+    "watch parties",
+    "trips",
+    "weekends",
+    "campus events"
+  ],
+  "core_business_proof": [
+    "adoption through fast self-relevant entertainment",
+    "retention through continuity and return hooks",
+    "growth through artifact sharing and squad loops",
+    "monetization through premium experiences and customization later"
+  ]
+}

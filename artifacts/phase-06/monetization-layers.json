@@ -1,0 +1,55 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "monetization_strategy": {
+    "core_philosophy": "growth-first, monetization-later",
+    "must_remain_free_early": [
+      "basic wow experience",
+      "basic artifact portability",
+      "basic continuity proof",
+      "first-use delight"
+    ],
+    "layers": [
+      {
+        "name": "Premium experiences",
+        "timing": "after repeat usage and retention signals strengthen",
+        "examples": [
+          "richer dramatic modes",
+          "deeper episode branches",
+          "premium season arcs",
+          "advanced narrative styles"
+        ]
+      },
+      {
+        "name": "Cosmetic and universe customization",
+        "timing": "earlier than deep subscriptions",
+        "examples": [
+          "companion themes",
+          "artifact styles",
+          "universe skins",
+          "premium presentation packs"
+        ]
+      },
+      {
+        "name": "Occasion packs",
+        "timing": "after occasion demand is validated",
+        "examples": [
+          "birthday packs",
+          "festival packs",
+          "trip packs",
+          "sports-night packs"
+        ]
+      },
+      {
+        "name": "Power-user subscription",
+        "timing": "after strong retention and premium demand signals",
+        "examples": [
+          "more premium generations",
+          "deeper continuity memory",
+          "elite customization",
+          "exclusive modes"
+        ]
+      }
+    ]
+  }
+}

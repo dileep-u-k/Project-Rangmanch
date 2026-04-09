@@ -1,0 +1,66 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "priority_matrix": [
+    {
+      "business_element": "Product category thesis",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Wedge market framing",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Adoption model",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Artifact sharing loop",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Squad invitation loop",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Arc continuation",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Monetization philosophy",
+      "importance": "Critical",
+      "mvp_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Moat / right-to-win",
+      "importance": "Critical",
+      "mvp_proof_strength": "Medium",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "business_element": "Metrics framework",
+      "importance": "High",
+      "mvp_proof_strength": "Medium",
+      "deck_emphasis": "Supporting slide"
+    },
+    {
+      "business_element": "Occasion relevance loop",
+      "importance": "High",
+      "mvp_proof_strength": "Future-facing",
+      "deck_emphasis": "Supporting slide"
+    }
+  ]
+}

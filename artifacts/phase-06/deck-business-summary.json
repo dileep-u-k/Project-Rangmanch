@@ -1,0 +1,51 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "deck_ready_summary": {
+    "category": "Companion-led personal entertainment operating system",
+    "wedge_market": "Mobile-first, socially expressive young users with high short-session entertainment and screenshot-sharing behavior",
+    "adoption": [
+      "immediate payoff",
+      "self-relevance",
+      "novelty with structure",
+      "emotional lightness",
+      "social value",
+      "continuity curiosity"
+    ],
+    "retention": [
+      "daily episode curiosity",
+      "arc continuation",
+      "squad evolution",
+      "occasion relevance",
+      "personalized familiarity"
+    ],
+    "growth": [
+      "artifact sharing",
+      "squad invitation",
+      "continuity curiosity",
+      "occasion relevance"
+    ],
+    "monetization": [
+      "premium experiences",
+      "customization",
+      "occasion packs",
+      "power-user subscription"
+    ],
+    "moat": [
+      "continuity",
+      "memory",
+      "social artifact identity",
+      "integrated loop design",
+      "user-universe accumulation"
+    ],
+    "priority_metrics": [
+      "onboarding completion rate",
+      "first episode completion rate",
+      "first artifact view rate",
+      "repeat episode rate",
+      "continuity return rate",
+      "artifact share rate",
+      "D1 retention"
+    ]
+  }
+}

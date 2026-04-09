@@ -1,0 +1,65 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "growth_loops": [
+    {
+      "name": "Artifact sharing loop",
+      "mvp_strength": "strong",
+      "trigger": "User gets a compelling result and views the artifact",
+      "flow": [
+        "User experiences delight",
+        "Result becomes artifact",
+        "User shares artifact",
+        "Recipient becomes curious",
+        "Recipient tries product",
+        "Recipient creates their own artifact"
+      ],
+      "product_surfaces": ["artifact screen", "episode outcome", "squad result"],
+      "strongest_artifact_types": [
+        "episode verdict card",
+        "dramatic outcome card",
+        "squad ranking card"
+      ]
+    },
+    {
+      "name": "Squad invitation loop",
+      "mvp_strength": "strong",
+      "trigger": "User gets a socially recognizable squad result",
+      "flow": [
+        "User generates squad result",
+        "Output references group dynamics",
+        "User wants friend reaction",
+        "Friends see result or are invited",
+        "Group curiosity rises",
+        "More social usage occurs"
+      ],
+      "product_surfaces": ["squad setup", "squad result", "artifact after squad"]
+    },
+    {
+      "name": "Occasion relevance loop",
+      "mvp_strength": "future",
+      "trigger": "A timely event or occasion occurs",
+      "flow": [
+        "Special moment occurs",
+        "RANGMANCH feels timely",
+        "User creates occasion-linked experience",
+        "Shareability rises because relevance is high",
+        "Brand memory strengthens"
+      ],
+      "product_surfaces": ["future event card", "future occasion prompts", "future themed artifacts"]
+    },
+    {
+      "name": "Continuity curiosity loop",
+      "mvp_strength": "medium",
+      "trigger": "User receives a return hook",
+      "flow": [
+        "User receives unresolved hook",
+        "User returns for continuation",
+        "New output is generated",
+        "New output creates new artifact potential",
+        "Share opportunities increase"
+      ],
+      "product_surfaces": ["next act", "archive", "home continuity card"]
+    }
+  ]
+}

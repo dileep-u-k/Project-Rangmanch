@@ -1,0 +1,29 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "economics": {
+    "higher_cost_surfaces": [
+      "Today's Episode generation",
+      "Squad Mode generation",
+      "dynamic continuity generation"
+    ],
+    "lower_cost_surfaces": [
+      "artifact rendering",
+      "home continuity reflection",
+      "archive display"
+    ],
+    "cost_control_principles": [
+      "use structured outputs instead of open-ended outputs",
+      "spend more intelligence on flagship wow moments",
+      "use fallback logic to avoid expensive retries",
+      "use caching or lightweight summaries for continuity where appropriate"
+    ],
+    "premium_subsidy_logic": [
+      "premium dramatic modes",
+      "deeper season arcs",
+      "memory-rich continuity",
+      "premium artifact styles",
+      "power-user subscription"
+    ]
+  }
+}

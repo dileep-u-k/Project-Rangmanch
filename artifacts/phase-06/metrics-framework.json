@@ -1,0 +1,46 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "metrics": {
+    "activation": [
+      "onboarding completion rate",
+      "first episode completion rate",
+      "first artifact view rate",
+      "time to first wow"
+    ],
+    "engagement": [
+      "episode sessions per active user",
+      "squad mode usage rate",
+      "artifact generation/view rate",
+      "branch completion rate",
+      "archive revisit rate"
+    ],
+    "retention": [
+      "D1 retention",
+      "D7 retention",
+      "repeat episode rate",
+      "continuity return rate",
+      "multi-mode return rate"
+    ],
+    "growth": [
+      "artifact share rate",
+      "invite or curiosity conversion proxy",
+      "organic install share",
+      "squad participation depth"
+    ],
+    "monetization_readiness": [
+      "premium-style mode demand",
+      "save rate for premium-feeling artifacts",
+      "willingness-to-pay indicators"
+    ]
+  },
+  "priority_early_signals": [
+    "onboarding completion rate",
+    "first episode completion rate",
+    "first artifact view rate",
+    "D1 retention",
+    "repeat episode rate",
+    "continuity return rate",
+    "artifact share rate"
+  ]
+}

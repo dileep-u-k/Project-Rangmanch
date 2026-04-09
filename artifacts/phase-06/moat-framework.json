@@ -1,0 +1,32 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 6",
+  "moat_categories": [
+    {
+      "name": "Continuity moat",
+      "description": "The user's world becomes more valuable over time because the product carries forward prior entertainment context."
+    },
+    {
+      "name": "Memory moat",
+      "description": "The system becomes more personally tuned through vibe, tone, and recurring preference learning."
+    },
+    {
+      "name": "Social artifact moat",
+      "description": "The product creates distinctive portable outputs that strengthen sharing, recognition, and identity."
+    },
+    {
+      "name": "Product-system moat",
+      "description": "The integrated loop of episode, squad, artifact, and return hook is harder to copy cleanly than a single isolated feature."
+    },
+    {
+      "name": "Identity moat",
+      "description": "Users accumulate a personal entertainment universe that creates switching friction over time."
+    }
+  ],
+  "right_to_win_intersection": [
+    "short-session mobile entertainment",
+    "companion-led personalization",
+    "socially portable output design",
+    "continuity-driven return logic"
+  ]
+}
