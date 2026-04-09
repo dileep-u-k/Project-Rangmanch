@@ -1,0 +1,46 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "failure_classes": [
+    {
+      "name": "User does not get it",
+      "likelihood": "medium",
+      "severity": "high"
+    },
+    {
+      "name": "Output feels generic",
+      "likelihood": "medium",
+      "severity": "high"
+    },
+    {
+      "name": "Experience feels slow",
+      "likelihood": "low-to-medium",
+      "severity": "medium-to-high"
+    },
+    {
+      "name": "Social mode feels risky or awkward",
+      "likelihood": "medium",
+      "severity": "high"
+    },
+    {
+      "name": "Hooks feel fake",
+      "likelihood": "medium",
+      "severity": "medium"
+    },
+    {
+      "name": "Demo path breaks",
+      "likelihood": "medium",
+      "severity": "very high"
+    },
+    {
+      "name": "Shareability claim is overstated",
+      "likelihood": "medium",
+      "severity": "medium"
+    },
+    {
+      "name": "Product feels more like a polished concept than a credible proposal",
+      "likelihood": "low-to-medium",
+      "severity": "high"
+    }
+  ]
+}

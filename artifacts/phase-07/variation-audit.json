@@ -1,0 +1,25 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "variation_dimensions": [
+    "episode framing",
+    "branch choice style",
+    "squad verdict style",
+    "artifact feeling",
+    "hook style",
+    "humor tone"
+  ],
+  "surface_scores": {
+    "todays_episode": 4.0,
+    "squad_mode": 3.9,
+    "artifact_layer": 4.1,
+    "next_act_continuity": 3.6
+  },
+  "overall_freshness_score": 3.9,
+  "main_future_opportunities": [
+    "more specific and varied next-act hooks",
+    "deeper squad verdict diversity",
+    "stronger long-term arc variation",
+    "occasion-led stylistic shifts"
+  ]
+}

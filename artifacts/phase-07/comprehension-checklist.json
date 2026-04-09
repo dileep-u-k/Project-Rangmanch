@@ -1,0 +1,18 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "comprehension_questions": [
+    "What does this app do?",
+    "What do you think happens if you tap Today's Episode?",
+    "What do you think Squad Mode does?",
+    "How is this different from a normal AI chat app?",
+    "What feels like the first thing to do here?"
+  ],
+  "core_observation_areas": [
+    "hesitation on home screen",
+    "confusion around labels",
+    "time to first meaningful click",
+    "ability to explain product back simply"
+  ],
+  "target_outcome": "A user should understand the product direction in under 60 seconds."
+}

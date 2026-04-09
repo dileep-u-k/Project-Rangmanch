@@ -1,0 +1,60 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "priority_matrix": [
+    {
+      "evaluation_element": "Product comprehension",
+      "importance": "Critical",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "First-session delight",
+      "importance": "Critical",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "Episode output quality",
+      "importance": "Critical",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "Artifact portability",
+      "importance": "Critical",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "Squad social value",
+      "importance": "Critical",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "Continuity visibility",
+      "importance": "Critical",
+      "current_proof_strength": "Medium-Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "Demo stability",
+      "importance": "Critical",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Core slide"
+    },
+    {
+      "evaluation_element": "Freshness control",
+      "importance": "High",
+      "current_proof_strength": "Medium",
+      "deck_emphasis": "Supporting slide"
+    },
+    {
+      "evaluation_element": "Failure-proofing maturity",
+      "importance": "High",
+      "current_proof_strength": "Strong",
+      "deck_emphasis": "Supporting slide"
+    }
+  ]
+}

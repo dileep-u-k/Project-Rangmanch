@@ -1,0 +1,26 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "first_session_path": [
+    "onboarding",
+    "home",
+    "today's episode",
+    "episode outcome",
+    "artifact",
+    "next act"
+  ],
+  "strongest_wow_moments": [
+    "episode experience",
+    "artifact",
+    "next act curiosity reinforcement"
+  ],
+  "evaluation_dimensions": [
+    "pace",
+    "emotional lift",
+    "personalization",
+    "distinctiveness",
+    "payoff quality",
+    "continuation curiosity"
+  ],
+  "target_outcome": "The first wow should happen in under one minute and feel distinct from generic AI chat."
+}

@@ -1,0 +1,27 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "scoring_scale": {
+    "1": "weak",
+    "2": "below bar",
+    "3": "acceptable",
+    "4": "strong",
+    "5": "excellent"
+  },
+  "criteria": [
+    "clear",
+    "fast",
+    "personal",
+    "entertaining",
+    "branded",
+    "interactive",
+    "portable",
+    "continuous"
+  ],
+  "output_categories": [
+    "episode outputs",
+    "squad outputs",
+    "artifact outputs",
+    "next-act outputs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "stable_flows": {
+    "flow_a_solo_wow": true,
+    "flow_b_social_proof": true,
+    "flow_c_continuity_proof": true
+  },
+  "strongest_demo_surfaces": [
+    "Episode Experience",
+    "Artifact",
+    "Squad Result",
+    "Home"
+  ],
+  "higher_risk_surfaces": [
+    "Next Act phrasing impact",
+    "softer Squad phrasing in weaker examples"
+  ],
+  "stable_build_signoff": "PASS",
+  "key_demo_rules": [
+    "always use known-good demo examples",
+    "reach the first wow quickly",
+    "treat Artifact as a key reveal",
+    "present Next Act as retention proof, not peak wow",
+    "avoid improvising weak new inputs live"
+  ]
+}

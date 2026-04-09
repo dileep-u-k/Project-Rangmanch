@@ -1,0 +1,21 @@
+{
+  "project_name": "RANGMANCH",
+  "phase": "Phase 7",
+  "shareability_scores": {
+    "episode_artifacts": 4.1,
+    "squad_artifacts": 4.5,
+    "verdict_cards": 4.2,
+    "next_act_teasers": 3.4
+  },
+  "strongest_share_surfaces": [
+    "squad artifact",
+    "episode artifact",
+    "verdict-style result card"
+  ],
+  "main_shareability_risks": [
+    "artifact headline may not always feel punchy enough",
+    "squad humor could feel awkward if phrasing is too sharp",
+    "some episode outputs may feel more satisfying than shareable"
+  ],
+  "overall_shareability_score": 4.15
+}
